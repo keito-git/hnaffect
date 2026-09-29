@@ -73,9 +73,10 @@ measurement error, not as ground truth. No hosted API was used at any point.
 
 ## Disclosure
 
-Claude Opus 5 (Anthropic) was used to write this analysis code, to draft the manuscript
-and to create the figures. The author reviewed and edited all of it and takes full
-responsibility for it. The same disclosure appears in the manuscript.
+Claude Opus 5 (Anthropic) was used to write this analysis code and the figure-generating
+scripts, and to translate and revise the text of the manuscript. The author reviewed and
+edited all of it and takes full responsibility for it. The same disclosure appears in the
+manuscript.
 
 ## License
 
