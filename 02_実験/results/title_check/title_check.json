@@ -1,0 +1,12 @@
+{
+ "tp": 150,
+ "fp": 0,
+ "fn": 2,
+ "tn": 148,
+ "precision": 1.0,
+ "control_contamination": 0.013333333333333334,
+ "ctl_pre_n": 90,
+ "ctl_pre_fn": 0,
+ "ctl_post_n": 60,
+ "ctl_post_fn": 2
+}

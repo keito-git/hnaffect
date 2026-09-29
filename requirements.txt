@@ -1,0 +1,12 @@
+# Python 3.11 was used. Versions are the ones the analysis was run with.
+matplotlib
+numpy
+pandas
+pyarrow
+requests
+scipy
+scikit-learn
+sentence-transformers
+statsmodels
+torch
+transformers

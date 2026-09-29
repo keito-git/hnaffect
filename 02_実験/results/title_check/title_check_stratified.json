@@ -1,0 +1,50 @@
+{
+ "coder": "LLM (Claude Opus 5), blind to the keyword label",
+ "strata": {
+  "2015-2018": {
+   "n_ai": 60,
+   "precision": 1.0,
+   "n_ctl": 107,
+   "fp_in_ai": 0,
+   "contamination": 0.028037383177570093,
+   "fn_in_ctl": 3,
+   "recall": 0.39647068577368766
+  },
+  "2019-2022": {
+   "n_ai": 60,
+   "precision": 0.9666666666666667,
+   "n_ctl": 107,
+   "fp_in_ai": 2,
+   "contamination": 0.009345794392523364,
+   "fn_in_ctl": 1,
+   "recall": 0.6264391922636388
+  },
+  "2023-2026": {
+   "n_ai": 60,
+   "precision": 0.9833333333333333,
+   "n_ctl": 107,
+   "fp_in_ai": 1,
+   "contamination": 0.037383177570093455,
+   "fn_in_ctl": 4,
+   "recall": 0.7317238636054507
+  }
+ },
+ "recall_overall": 0.6478740123649546,
+ "precision_overall": 0.9833333333333333,
+ "contamination_overall": 0.024922118380062305,
+ "false_positive_titles": [
+  "ChatGPT Sent Me to the ER",
+  "Copilot: Realtime programming language and runtime verification framework",
+  "IBM Z mainframes revived by Red Hat, AI and security"
+ ],
+ "false_negative_titles": [
+  "A sane introduction to maximum likelihood estimation and maximum a posteriori",
+  "Oasis: A Universe in a Transformer",
+  "Achilles Heels for AGI/ASI via Decision Theoretic Adversaries",
+  "Image-to-Image Translation with Conditional Adversarial Nets",
+  "Sentiment analysis on Twitter using word2vec and keras",
+  "Show HN: Lance – Alternative to Parquet for ML data",
+  "Vector Similarity Beyond Search",
+  "The Secretive Business of Facial-Recognition Software in Retail Stores"
+ ]
+}

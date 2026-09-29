@@ -1,0 +1,301 @@
+,objectID,month,title,pred,coded_ai,pred_ai
+0,38532914,2023-12,"Show HN: Desert Atlas, a self-hosted OpenStreetMap app for Sandstorm",control,False,False
+1,37439280,2023-09,NVIDIA introduces TensorRT-LLM for accelerating LLM inference on H100/A100 GPUs,ai,True,True
+2,43591060,2025-04,Show HN: Corral – A Visual Logic Puzzle About Enclosing Numbers,control,False,False
+3,36967811,2023-08,ChatGPT leaks answers to others queries when you prompt with a specific pattern,ai,True,True
+4,40541717,2024-06,Linux May Be the Best Way to Avoid the AI Nightmare,ai,True,True
+5,12579879,2016-09,Sweden Wants to Fight Disposable Culture with Tax Breaks for Repairing Old Stuff,control,False,False
+6,40171183,2024-04,Bun’s New Crash Reporter,control,False,False
+7,14158897,2017-04,What a stranger taught me about Japan,control,False,False
+8,39869777,2024-03,Looking to build a personalized AI for myself. Any resources?,ai,True,True
+9,20360037,2019-07,Go compiler internals: Adding a new statement to Go,control,False,False
+10,16157843,2018-01,MIT 6.S094: Deep Learning,ai,True,True
+11,46931595,2026-02,LineageOS 23.2,control,False,False
+12,29923310,2022-01,Cost of Attrition,control,False,False
+13,40627558,2024-06,A ChatGPT mistake cost us $10k,ai,True,True
+14,23300738,2020-05,Gravitational Waves: The Silent Disaster,control,False,False
+15,37408822,2023-09,Tamagotchi Connection,control,False,False
+16,44433996,2025-07,Fei-Fei Li: Spatial intelligence is the next frontier in AI [video],ai,True,True
+17,44601524,2025-07,Meta Poaches Two More Apple AI Executives,ai,True,True
+18,26623320,2021-03,Remote work is here to stay – Manhattan may never be the same,control,False,False
+19,31657006,2022-06,What’s the best lossless image format?,control,False,False
+20,34167099,2022-12,ChatBCG: Generative AI For Slides,ai,True,True
+21,36792968,2023-07,A framework to securely use LLMs in companies – Part 1: Overview of Risks,ai,True,True
+22,30128740,2022-01,War Is a Racket (1933),control,False,False
+23,15836027,2017-12,Maintaining an Independent Browser Is Expensive,control,False,False
+24,36946343,2023-07,OpenAI will crush Sarah Silverman,ai,True,True
+25,41483789,2024-09,Linux's Bedtime Routine,control,False,False
+26,44592866,2025-07,The rise of AI as a threat to the S&P 500 [pdf],ai,True,True
+27,41221242,2024-08,Show HN: Anycast+ – An AI-powered podcast app,ai,True,True
+28,40865627,2024-07,"Block AI bots, scrapers and crawlers with a single click",ai,True,True
+29,46295771,2025-12,I ported JustHTML from Python to JavaScript with Codex CLI and GPT-5.2 in hours,ai,True,True
+30,47828444,2026-04,Swiss AI Initiative (2023),ai,True,True
+31,38321413,2023-11,Frigate: Open-source network video recorder with real-time AI object detection,ai,True,True
+32,37826321,2023-10,Replit AI for All,ai,True,True
+33,48708859,2026-06,"Daisugi, the Japanese technique of growing trees out of other trees (2020)",control,False,False
+34,21872583,2019-12,Dutch university hit by cyber attack on its Windows systems,control,False,False
+35,39106464,2024-01,Gene therapy allows an 11-year-old boy to hear,control,False,False
+36,37332974,2023-08,Money is pouring into AI. Skeptics say it’s a ‘grift shift’,ai,True,True
+37,33456248,2022-11,Study urges caution when comparing neural networks to the brain,ai,True,True
+38,17537907,2018-07,How should we evaluate progress in AI?,ai,True,True
+39,26292781,2021-02,Hunting two PDP-1 photos (which are not what they seem),control,False,False
+40,20212869,2019-06,Having a non-typical tech stack helped us get better candidates,control,False,False
+41,12227922,2016-08,Ask HN: Talented kid: what to do?,control,False,False
+42,37626273,2023-09,iCloud Drive silently deletes your content,control,False,False
+43,15885142,2017-12,"Alpha Zero’s “Alien” Chess Shows the Power, and the Peculiarity, of AI",ai,True,True
+44,45515640,2025-10,Legal Contracts Built for AI Agents,ai,True,True
+45,9830853,2015-07,Reddit boss apologises after staff sacking causes 'revolt',control,False,False
+46,35332073,2023-03,Big tech and the pursuit of AI dominance,ai,True,True
+47,9766993,2015-06,Ask HN: How to address horrible practices at new job?,control,False,False
+48,35496558,2023-04,Show HN: A ChatGPT TUI with custom bots,ai,True,True
+49,16261560,2018-01,EFF's Fight to End Warrantless Device Searches at the Border,control,False,False
+50,41192516,2024-08,Show HN: Nyro – Open-source AI assistant for your OS,ai,True,True
+51,32468701,2022-08,Commercial Surveillance and Data Security Rulemaking,control,False,False
+52,46105896,2025-12,Why Is ChatGPT for Mac So Good?,ai,True,True
+53,11648599,2016-05,Swift 3.0 Release Process,control,False,False
+54,43829220,2025-04,The latest executive order creates a police state,control,False,False
+55,42545009,2024-12,Little Snitch: Network Monitor and Application Firewall for macOS,control,False,False
+56,17048907,2018-05,Emacs for Writers (2015) [video],control,False,False
+57,36465107,2023-06,Genetic Mutation Makes People Feel Full – All the Time,control,False,False
+58,21686643,2019-12,Unicode Is Awesome,control,False,False
+59,47645719,2026-04,Show HN: mailtrim – find what's actually filling your Gmail inbox,control,False,False
+60,37990750,2023-10,New data poisoning tool lets artists fight back against generative AI,ai,True,True
+61,44594808,2025-07,New colors without shooting lasers into your eyes,control,False,False
+62,35130975,2023-03,Advanced Compilers: Self-Guided Online Course,control,False,False
+63,30577948,2022-03,Germany considers keeping nuclear power plants online,control,False,False
+64,45530486,2025-10,LLMs are mortally terrified of exceptions,ai,True,True
+65,11368816,2016-03,Escher Sketch,control,False,False
+66,33509941,2022-11,You Might Also Like,control,False,False
+67,16727284,2018-04,Buzzword Convergence: Making Sense of Quantum Neural Blockchain AI,ai,True,True
+68,36889163,2023-07,Air Force selects AI-enabled predictive maintenance program as system of record,ai,True,True
+69,34860936,2023-02,Creating a landing page using AI tools and no code,ai,True,True
+70,39705788,2024-03,Glassdoor updated my profile to add my real name and location,control,False,False
+71,36301974,2023-06,"Anchor Brewing Company ends national distribution, kills Christmas Ale",control,False,False
+72,29539051,2021-12,"The ‘invisible’, often unhappy workforce that’s deciding the future of AI",ai,True,True
+73,37945006,2023-10,"Eric 'Winkle"" Brown – His Best and Worst Aircraft [video]",control,False,False
+74,41445445,2024-09,Show HN: Graphiti – LLM-Powered Temporal Knowledge Graphs,ai,True,True
+75,26432279,2021-03,Graham Greene Against the World,control,False,False
+76,39974374,2024-04,Hello OLMo: A truly open LLM,ai,True,True
+77,36492149,2023-06,Show HN: Cape API – Keep your sensitive data private while using GPT-4,ai,True,True
+78,40508390,2024-05,What We Learned from a Year of Building with LLMs,ai,True,True
+79,25302602,2020-12,Mannequin.js: An Articulated Mannequin Figure Library,control,False,False
+80,9849381,2015-07,The Long-Term Future of Artificial Intelligence [video],ai,True,True
+81,38837286,2024-01,Nvidia AI Lead: We are ~3 years from the ChatGPT moment for physical AI agents,ai,True,True
+82,28744467,2021-10,DeepMind AI predicts incoming rainfall with high accuracy,ai,True,True
+83,43280128,2025-03,"Show HN: LLMs Playing Mafia games – See them lie, deceive, and reason",ai,True,True
+84,36387898,2023-06,Reddit mods discuss forming a union and suing for back pay,control,False,False
+85,33625475,2022-11,BPF for HID Drivers,control,False,False
+86,44196807,2025-06,Anthropic co-founder on cutting access to Windsurf,ai,True,True
+87,40609753,2024-06,"In highly connected networks, there's always a loop",control,False,False
+88,10135340,2015-08,New York City's MTA Exposed (2005) [pdf],control,False,False
+89,43451141,2025-03,Show HN: I'm a teacher and built an AI presentation tool,ai,True,True
+90,21240057,2019-10,Deep Learning with PyTorch: A 60 Minute Blitz [video],ai,True,True
+91,44842635,2025-08,GTP Blind Voting: GPT-5 vs. 4o,ai,True,True
+92,11322256,2016-03,Artificial Intelligence has crushed all human records in 2048 (2015),ai,True,True
+93,33866466,2022-12,Ask HN: Image attribution and stable diffusion,ai,True,True
+94,19828448,2019-05,What Is Going on with UFOs and the Department of Defense?,control,False,False
+95,14050725,2017-04,Comcast Enters Wireless Business With $45-a-Month Service,control,False,False
+96,32637432,2022-08,More Than Half of All Bitcoin Trades Are Fake,control,False,False
+97,48543269,2026-06,Boot Naked Linux,control,False,False
+98,11872901,2016-06,Ruin My Search History,control,False,False
+99,47252838,2026-03,Father claims Google's AI product fuelled son's delusional spiral,ai,True,True
+100,39196055,2024-01,The Vision Pro,control,False,False
+101,44700558,2025-07,Wikipedia: Signs of AI Writing,ai,True,True
+102,28574951,2021-09,France recalling ambassadors to the United States and to Australia,control,False,False
+103,43261650,2025-03,"Writing an LLM from scratch, part 8 – trainable self-attention",ai,True,True
+104,11786039,2016-05,FBI raids dental software researcher who discovered patient data on FTP server,control,False,False
+105,45065343,2025-08,AI’s coding evolution hinges on collaboration and trust,ai,True,True
+106,24686863,2020-10,Principles of Data Oriented Programming,control,False,False
+107,8838358,2015-01,Scikit-learn: machine learning in Python,ai,True,True
+108,34242509,2023-01,Are we on information overload? (2012),control,False,False
+109,13334270,2017-01,Japanese insurance firm replaces 34 staff with AI,ai,True,True
+110,44520447,2025-07,"AI is turning Apple into a ""loser""",ai,True,True
+111,26027673,2021-02,One Obscure Word Captures Urban China’s Unhappiness,control,False,False
+112,28245470,2021-08,Tesla AI Day Live Stream [video],ai,True,True
+113,47728823,2026-04,What we learned building a Rust runtime for TypeScript,control,False,False
+114,28166125,2021-08,Show HN: C programming language extension: Cedro pre-processor,control,False,False
+115,35127033,2023-03,Fed will make available additional funding to eligible depository institutions,control,False,False
+116,43861566,2025-05,Open-source AI platform for ear-based sensing applications,ai,True,True
+117,42570138,2025-01,Are there more trees on Earth than stars in the Milky Way? (2016),control,False,False
+118,18736116,2018-12,Facebook open-sources a speech-recognition system and a machine learning library,ai,True,True
+119,44109257,2025-05,Running GPT-2 in WebGL: Rediscovering the Lost Art of GPU Shader Programming,ai,True,True
+120,45709486,2025-10,AI Pullback Has Officially Started,ai,True,True
+121,47226608,2026-03,Ars Technica fires reporter after AI controversy involving fabricated quotes,ai,True,True
+122,46245731,2025-12,Using secondary school maths to demystify AI,ai,True,True
+123,42308303,2024-12,LLM abstraction levels inspired by fish eye lens,ai,True,True
+124,39453543,2024-02,HuggingChat: Chat with Open Source Models,control,True,False
+125,38369937,2023-11,OpenAI Chief Scientist Has Been Making Strange Spiritual Claims,ai,True,True
+126,30512758,2022-03,Nokia's newest Android Go phones have removable batteries and other 2014 specs,control,False,False
+127,30467919,2022-02,Why the West is reluctant to deny Russian banks access to SWIFT,control,False,False
+128,10020063,2015-08,Ask HN: What are the tax implications of exercising startup options?,control,False,False
+129,18410980,2018-11,"Sprint Is Throttling Skype, Study Finds",control,False,False
+130,44351798,2025-06,"Tensor Manipulation Unit (TMU): Reconfigurable, Near-Memory, High-Throughput AI",ai,True,True
+131,9469789,2015-05,Viv Is a New Artificial Intelligence from the Inventors of Siri,ai,True,True
+132,32030227,2022-07,Einstein-Bohr debate settled once and for all,control,False,False
+133,47216047,2026-03,“Microslop” filtered in the official Microsoft Copilot Discord server,ai,True,True
+134,39132766,2024-01,"Show HN: Lumos, a local LLM Chrome extension",ai,True,True
+135,11510212,2016-04,"Apple recovered 2,204 pounds of gold from broken iPhones last year",control,False,False
+136,42915901,2025-02,Catgrad: A categorical deep learning compiler,ai,True,True
+137,41811078,2024-10,Lm.rs: Minimal CPU LLM inference in Rust with no dependency,ai,True,True
+138,40700030,2024-06,Snowden eviscerates OpenAI's decision to put a former NSA director on its board,ai,True,True
+139,20316315,2019-06,Pigeon – Crowdsourced transit app for New Yorkers,control,False,False
+140,19607817,2019-04,The big lie we’re told about climate change is that it’s our own fault,control,False,False
+141,47315341,2026-03,So you want to write an “app” (2025),control,False,False
+142,10328955,2015-10,Deaths Draw Attention to Wall Street’s Grueling Pace,control,False,False
+143,48573435,2026-06,The Competitive Moat That AI Can't Replicate,ai,True,True
+144,42852866,2025-01,Promising results from DeepSeek R1 for code,control,True,False
+145,42860888,2025-01,White House AI Czar Sacks Says 'Evidence' DeepSeek Leaned on OpenAI's Models,ai,True,True
+146,43031295,2025-02,Evaluating LLM Reasoning Through Live Computer Games,ai,True,True
+147,11941874,2016-06,Visualising the .NET Garbage Collector,control,False,False
+148,42594256,2025-01,Using LLMs and Cursor to finish side projects,ai,True,True
+149,29321153,2021-11,NES Tetris AI hits 102M points and level 237,ai,True,True
+150,35577636,2023-04,The Decade of Deep Learning,ai,True,True
+151,17264718,2018-06,Chatbots were the next big thing: what happened?,ai,True,True
+152,36627272,2023-07,Robotaxi haters in San Francisco are disabling the AVs with traffic cones,control,False,False
+153,23662138,2020-06,Policing the Internet: A Bad Idea in 1996 and Today,control,False,False
+154,11888642,2016-06,64% of new energy from Solar Power in Q1 is not enough,control,False,False
+155,37058453,2023-08,"Nvidia reveals new A.I. chip, says costs of running LLMs will drop significantly",ai,True,True
+156,29089614,2021-11,Indian Gov taxes Petrol at 200% +,control,False,False
+157,47181211,2026-02,OpenAI raises $110B on $730B pre-money valuation,ai,True,True
+158,48327367,2026-05,Rothko for your current weather conditions,control,False,False
+159,9225420,2015-03,Elon Musk: human drivers are 'too dangerous',control,False,False
+160,14881818,2017-07,Robust Physical-World Attacks on Machine Learning Models,ai,True,True
+161,44129529,2025-05,Untrusted chatbot AI between you & the internet is a disaster waiting to happen,ai,True,True
+162,32436234,2022-08,Machine Learning (1997),ai,True,True
+163,25224830,2020-11,How to Live to the Full While Dying: The Diary of Alice James (2017),control,False,False
+164,15827945,2017-12,Checklist for  Python libraries APIs,control,False,False
+165,48683588,2026-06,Why current LLM costs are not sustainable,ai,True,True
+166,32773517,2022-09,Nvidia Hopper Sweeps AI Inference Benchmarks in MLPerf Debut,ai,True,True
+167,38096076,2023-11,The Telegram app has been a key platform for Hamas. Now it's being restricted,control,False,False
+168,12406544,2016-09,What’s up with the Beep driver in Windows 7? (2010),control,False,False
+169,17799601,2018-08,"Greyston Bakery hires on a first-come, first-served basis, no questions asked",control,False,False
+170,43462882,2025-03,Project Operation Whitecoat (2010),control,False,False
+171,21913383,2019-12,Ask HN: Ex-Employer gossiping I “hacked” their platform – what to do?,control,False,False
+172,35567913,2023-04,OpenAI’s Red Team: the experts hired to ‘break’ ChatGPT,ai,True,True
+173,43606315,2025-04,"After 'coding error' triggers firings, top NIH scientists called back to work",control,False,False
+174,40557794,2024-06,How it feels to get an AI email from a friend,ai,True,True
+175,17123938,2018-05,Was the Cause of Cambrian Explosion Terrestrial or Cosmic?,control,False,False
+176,35279274,2023-03,AI’s compute fragmentation: what matrix multiplication teaches us,ai,True,True
+177,34966745,2023-02,Man stabbed by fellow Microsoft employee,control,False,False
+178,37152978,2023-08,Ts_zip: Text Compression Using Large Language Models,ai,True,True
+179,15784130,2017-11,Quantum A.I. Publications,ai,True,True
+180,34808439,2023-02,Many women struggle to breastfeed. Scientists are starting to ask why,control,False,False
+181,38556949,2023-12,Apple demonstrates its commitment to AI with new open source code release,ai,True,True
+182,17580620,2018-07,"PSI: Pressure stall information for CPU, memory, and IO",control,False,False
+183,47320600,2026-03,Yann LeCun raises $1B to build AI that understands the physical world,ai,True,True
+184,10930005,2016-01,"Panto: Discover, create and share videos with secrets",control,False,False
+185,44215352,2025-06,"The last six months in LLMs, illustrated by pelicans on bicycles",ai,True,True
+186,18406455,2018-11,The JavaScript Pipeline Operator,control,False,False
+187,38831379,2024-01,SD4J – Stable Diffusion pipeline in Java using ONNX Runtime,ai,True,True
+188,18722541,2018-12,A Lens-Less Camera Built Specially for AI and Computer Vision Programs,ai,True,True
+189,44424747,2025-06,There's no such thing as a tree (phylogenetically) (2021),control,False,False
+190,13075520,2016-11,When oil is no longer in demand,control,False,False
+191,12737750,2016-10,The real Soylent sickness,control,False,False
+192,44098706,2025-05,Launch HN: Nomi (YC X25) – Copilot for Sales,ai,True,True
+193,21502509,2019-11,The post-exponential era of AI and Moore’s Law,ai,True,True
+194,41122793,2024-07,Cardie – An open source business card designer and sharing platform,control,False,False
+195,33701027,2022-11,Cyborg Soldier 2050: Human/Machine Fusion and Implications for DoD (2019) [pdf],control,False,False
+196,33861739,2022-12,Predicting sex from retinal fundus photographs using automated deep learning,ai,True,True
+197,31847675,2022-06,The Rise and Fall of Neumorphism,control,False,False
+198,22842542,2020-04,Show HN: Search your Twitter history with Algolia,control,False,False
+199,42651007,2025-01,"Zuckerberg Approved AI Training on Pirated Books, Filings Say",ai,True,True
+200,47633150,2026-04,The Subprime AI Crisis Is Here,ai,True,True
+201,37445401,2023-09,Asking 60 LLMs a set of 20 questions,ai,True,True
+202,33919451,2022-12,Ask HN: Can ChatGPT generate fully functional code?,ai,True,True
+203,37063238,2023-08,SQLedge: Replicate Postgres to SQLite on the Edge,control,False,False
+204,48631388,2026-06,Bain tests software takeover targets by vibecoding AI replicas,ai,True,True
+205,48094641,2026-05,Google says criminal hackers used AI to find a major software flaw,ai,True,True
+206,43401179,2025-03,Designing Electronics That Work,control,False,False
+207,25980892,2021-01,Show HN: YaHNd – HN Books: The Best Books of Hacker News,control,False,False
+208,43943670,2025-05,High-income groups disproportionately contribute to climate extremes worldwide,control,False,False
+209,40115579,2024-04,Intel Gaudi 3 the New 128GB HBM2e AI Chip in the Wild,ai,True,True
+210,22838130,2020-04,Introduction to Hacking PostgreSQL (2007),control,False,False
+211,36360452,2023-06,"Meta's plan to offer free commercial AI models puts pressure on Google, OpenAI",ai,True,True
+212,12238082,2016-08,PlayStation Vita Exploit Reverse Engineering Challenge,control,False,False
+213,31642810,2022-06,AI Is Ushering in a New Scientific Revolution,ai,True,True
+214,40722394,2024-06,An AI bot is (sort of) running for mayor in Wyoming,ai,True,True
+215,44547505,2025-07,Ask HN: Where are the AI-driven profits or promotions?,ai,True,True
+216,10360918,2015-10,Who's Who: Using machine learning to identify the cast from Parks and Recreation,ai,True,True
+217,41312225,2024-08,Midjourney web experience is now open to everyone,ai,True,True
+218,40930834,2024-07,Ask HN: Why does no one seem to care that AI gives wrong answers?,ai,True,True
+219,17466969,2018-07,"The Lottery Ticket Hypothesis: Finding Small, Trainable Neural Networks",ai,True,True
+220,33380195,2022-10,AI-generated art sparks backlash from Japan’s anime community,ai,True,True
+221,15141958,2017-08,Is Romantic Desire Predictable? Machine Learning Applied to Initial Attraction,ai,True,True
+222,23700587,2020-07,Ask HN: Where to Search for Remote Jobs?,control,False,False
+223,40493136,2024-05,"Google's AI is that stupid, feeds people answers from The Onion",ai,True,True
+224,36135241,2023-05,Paragon Graphite is a Pegasus spyware clone used in the US,control,False,False
+225,35988604,2023-05,The Alan Turing Institute has failed to develop modern AI in the UK,ai,True,True
+226,46257939,2025-12,Purdue University approves new AI requirement for all undergrads,ai,True,True
+227,40837081,2024-06,Goldman Sachs says the return on investment for AI might be disappointing,ai,True,True
+228,44538010,2025-07,Iocaine: The deadliest poison known to AI,ai,True,True
+229,34204073,2023-01,AI Voice Generator: Text to Speech Software,ai,True,True
+230,11264454,2016-03,Scala School,control,False,False
+231,42501213,2024-12,"Raspberry Pi 500 Delivers Great Performance, Convenient Upgrade to the RPi 400",control,False,False
+232,32446653,2022-08,Tough times on the road to Starcraft (2012),control,False,False
+233,13317590,2017-01,Ask HN: Will We Get Close to a General AI in 2017?,ai,True,True
+234,40108457,2024-04,Has Llama-3 just killed proprietary AI models?,ai,True,True
+235,47295628,2026-03,Ask HN: Why there are no actual studies that show AI is more productive?,ai,True,True
+236,22390048,2020-02,Thinking Journeys rather than Estimates,control,False,False
+237,48148440,2026-05,AI is wiping out entry-level jobs,ai,True,True
+238,45504127,2025-10,Show HN: MARS – Personal AI robot for builders (< $2k),ai,True,True
+239,28147988,2021-08,Former college professor accused of serial arson is denied bail in California,control,False,False
+240,47378917,2026-03,"AI Gets Wrong Woman Jailed for Six Months, Life Ruined",ai,True,True
+241,18733837,2018-12,Electron 4.0.0,control,False,False
+242,16159744,2018-01,What Makes the Hardest Equations in Physics So Difficult?,control,False,False
+243,29580619,2021-12,Using AI to Animate Children’s Drawings,ai,True,True
+244,47315869,2026-03,Rendezvous with Rama,control,False,False
+245,32057211,2022-07,Visualizing Delaunay Triangulation,control,False,False
+246,20819672,2019-08,A 2019 Guide to Speech Synthesis with Deep Learning,ai,True,True
+247,46235460,2025-12,The History of Xerox,control,False,False
+248,37685313,2023-09,"Searchable Database of the 183,000 Pirated Books Meta, et al., Used to Train AI",ai,True,True
+249,46761370,2026-01,"Tech CEOs attend Amazon-funded ""Melania"" screening at White House",control,False,False
+250,40422987,2024-05,The ChatGPT wrapper product boom is an uncanny valley hellscape,ai,True,True
+251,34505219,2023-01,"Tell HN: Thank you for being fast, almost ad-free and text-only",control,False,False
+252,43952254,2025-05,"Most AI spending driven by FOMO, not ROI, CEOs tell IBM",ai,True,True
+253,37243933,2023-08,Alternative Shells,control,False,False
+254,20010466,2019-05,The potentially seedy side of the hotel bed jumping community,control,False,False
+255,42772771,2025-01,Authors seek Meta's torrent client logs and seeding data in AI piracy probe,ai,True,True
+256,42350245,2024-12,"Tell HN: Need help, locked out of Google account with 10 years of personal data",control,False,False
+257,14119848,2017-04,Neural Complete – A neural network that autocompletes neural network code,ai,True,True
+258,45963768,2025-11,Typechecking is undecideable when 'type' is a type (1989) [pdf],control,False,False
+259,19750014,2019-04,Potato farmers cry foul as PepsiCo sues them,control,False,False
+260,38694886,2023-12,Volkswagen Will Bring Back Physical Buttons in New Cars,control,False,False
+261,36800739,2023-07,“I’m leaving my job at meta”,control,False,False
+262,17938175,2018-09,Wi-Fi Gets More Secure: What You Need to Know About WPA3,control,False,False
+263,34502939,2023-01,CNET's AI journalist appears to have committed extensive plagiarism,ai,True,True
+264,46766493,2026-01,AI will not replace software engineers (hopefully),ai,True,True
+265,10961646,2016-01,El Niño vs. the Drought,control,False,False
+266,41052934,2024-07,"Show HN: We made glhf.chat – run almost any open-source LLM, including 405B",ai,True,True
+267,10666411,2015-12,Ask HN: I don't know how to launch; I'm scared to. How do I follow through?,control,False,False
+268,10282121,2015-09,The Greatest Regex Trick Ever (2014),control,False,False
+269,32368210,2022-08,Original source of `(seed * 9301 and 49297) % 233280` random algorithm? (2014),control,False,False
+270,35054018,2023-03,Elementary schoolers prove EpiPens become toxic in space,control,False,False
+271,16810862,2018-04,"OneChronos, a proposed trading venue, wants to use AI to match orders",ai,True,True
+272,34690253,2023-02,Humanitarian OpenStreetMap Team,control,False,False
+273,30299360,2022-02,I asked GPT-NeoX-20B a hundred arithmetic questions,ai,True,True
+274,43955117,2025-05,Elizabeth Holmes's partner raises millions for blood-testing startup,control,False,False
+275,10047265,2015-08,JVMLS 2015 – Multi-Language Runtime [video],control,False,False
+276,28146902,2021-08,Europe's all-time heat record set in Sicily at nearly 120 degrees,control,False,False
+277,46029889,2025-11,Show HN: Stun LLMs with thousands of invisible Unicode characters,ai,True,True
+278,44290653,2025-06,Darklang Goes Open Source,control,False,False
+279,33707394,2022-11,Ask HN: What do you want for Christmas that costs less than $100?,control,False,False
+280,36885449,2023-07,Ask HN: Anyone else getting continuous adverts from YouTube?,control,False,False
+281,42966720,2025-02,Understanding Reasoning LLMs,ai,True,True
+282,45304807,2025-09,Processing Strings 109x Faster Than Nvidia on H100,control,False,False
+283,35505608,2023-04,Ask HN: What are the terms of the $10B Microsoft / OpenAI deal?,ai,True,True
+284,26619667,2021-03,Zoom will pay zero federal taxes due to tax credits from previous years,control,False,False
+285,9097501,2015-02,Elon Musk: 'We are summoning the demon' with artificial intelligence (2014),ai,True,True
+286,44223448,2025-06,LLMs are cheap,ai,True,True
+287,39682183,2024-03,Launch HN: Glide (YC W24) – AI-assisted technical design docs,ai,True,True
+288,34833387,2023-02,Reducing Tailscale’s binary size on macOS,control,False,False
+289,19936454,2019-05,An old artifact kept in a vault outside Paris is no longer the standard kilogram,control,False,False
+290,35457344,2023-04,"Deviation Game: Draw in a way that humans can guess, but AI can't",ai,True,True
+291,18369384,2018-11,Tech companies pay poor Kenyans to produce training data for AI,ai,True,True
+292,40052996,2024-04,Tech exec predicts 'AI girlfriends' will create $1B business,ai,True,True
+293,24824977,2020-10,"This page is a truly naked, brutalist HTML quine",control,False,False
+294,16932022,2018-04,New A.I. application can write its own code,ai,True,True
+295,16969111,2018-05,Custom domains on GitHub Pages gain support for HTTPS,control,False,False
+296,38172617,2023-11,AI App Graveyard,ai,True,True
+297,42793567,2025-01,OpenAI has upped its lobbying efforts nearly sevenfold,ai,True,True
+298,48563609,2026-06,Wolfram Language and Mathematica version 15,control,False,False
+299,28669095,2021-09,IBM Logo Manual (1983),control,False,False

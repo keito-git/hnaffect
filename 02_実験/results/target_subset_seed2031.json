@@ -1,0 +1,8 @@
+{
+ "model": "facebook/bart-large-mnli",
+ "hypothesis": "The emotion in this comment is directed at artificial intelligence, an AI company, or an AI product.",
+ "share_nli_pre": 0.0,
+ "share_mention_pre": 0.24454724895139404,
+ "share_nli_post": 0.0,
+ "share_mention_post": 0.36075799260032254
+}

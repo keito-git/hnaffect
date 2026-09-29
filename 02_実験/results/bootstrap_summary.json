@@ -1,0 +1,15 @@
+{
+ "B": 1000,
+ "n_samplings_in_pool": 10,
+ "n_comments_pool": 1830975,
+ "fear_b2_mean_pp": 0.60555434786311,
+ "fear_b2_q025_pp": -0.06039108520790043,
+ "fear_b2_q975_pp": 1.2209545241066369,
+ "share_fear_b2_pos": 0.965,
+ "share_fear_nominal_p05": 0.476,
+ "share_fear_holm_p05": 0.181,
+ "share_sign_agree_3": 0.408,
+ "share_surprise_b3_neg": 0.895,
+ "share_anger_b3_pos": 0.786,
+ "share_any_holm_p05": 0.502
+}
